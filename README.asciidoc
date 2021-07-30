@@ -1,0 +1,33 @@
+Captioned Image - “I’m the Little Red Riding Hood of Messiahs — my Apocalypse is badder than yours”
+===================================================================================================
+
+[id="preview"]
+Preview:
+--------
+
+image::./little-red-riding-hood-of-messiahs-800.webp[“I’m the Little Red Riding Hood of Messiahs — my Apocalypse is badder than yours”]
+
+[id="about"]
+About:
+------
+
+This repository contains the sources for a captioned image. To view or
+edit it type:
+
+    inkscape ./little-red-riding-hood-of-messiahs.svg
+
+To build everything use https://www.gnu.org/software/make/[GNU make] .
+
+[id="creators"]
+Creator:
+--------
+
+https://www.shlomifish.org/[Shlomi Fish].
+
+[id="links"]
+Links:
+------
+
+* https://www.shlomifish.org/philosophy/the-eternal-jew/#reception[Meme in context]
+* https://chucknorris.com/[Chuck Norris’ Homepage]
+* https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/[Chuck Norris Factoids (Satire)]
